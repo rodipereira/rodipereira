@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Pereira</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">I'm passionate about programming and languages, with Python being my strongest skill. I focus on building projects from the ground up, tackling everything from planning and design to solving real-life problems through code.</h3>
 
 
