@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/devsrroddy" target="blank"><img src="https://img.shields.io/twitter/follow/devsrroddy?logo=twitter&style=for-the-badge" alt="devsrroddy" /></a> </p>
 
-- ⭐ I’m currently working on **100 Days 100 Codes**
-
-- ⭐ I’m currently learning **New Program Languages**
-
 - ⭐ All of my projects are available at [https://www.linkedin.com/in/rodipereira/](https://www.linkedin.com/in/rodipereira/)
 
 - ⭐ I regularly write articles on [https://discord.gg/9gnkUseXkR](https://discord.gg/9gnkUseXkR)
 
-- ⭐ How to reach me **rodrigobasketpb@gmail.com**
+- ⭐ How to reach me **rodrigopeira.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
